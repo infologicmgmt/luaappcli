@@ -5,9 +5,9 @@ luaappcli
 
 Usage:
 
-`luaappcli.lua [-dvth] [-c configfile]`
+`luaappcli [-dvth] [-c configfile]`
 
-`luaappcli.lua [--debug] [--verbose] [--test] [--help] [--config configfile]`
+`luaappcli [--debug] [--verbose] [--test] [--help] [--config configfile]`
 
 
 # Features:
