@@ -32,7 +32,7 @@ local longopts = {
 local usagetext = [[
 Usage:
 
-luaappcli.lua [--debug] [--verbose] [--test] [--config configfile]
+luaappcli.lua [--debug] [--verbose] [--test] [--help] [--config configfile]
 ]]
 
 --
