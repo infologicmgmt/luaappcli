@@ -25,6 +25,6 @@ source = {
 build = {
 	type = "builtin",
 	modules = {
-		luappcli = "src/luaappcli.lua"
+		luaappcli = "src/luaappcli.lua"
 	}
 }
