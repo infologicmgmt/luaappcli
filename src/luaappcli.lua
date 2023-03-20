@@ -15,7 +15,7 @@ local inspect = require('inspect')
 
 -- define variables
 local debug = false
-local verbose = valse
+local verbose = false
 local test = false
 local flags = {}
 local cfg = {}
