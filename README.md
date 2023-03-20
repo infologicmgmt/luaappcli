@@ -7,7 +7,7 @@ Usage:
 
 >luaappcli.lua [-dvth] [-c configfile]
 
->luaappcli.lua [--debug] [--verbose] [--test] [--help] [--config configfile]
+`luaappcli.lua [--debug] [--verbose] [--test] [--help] [--config configfile]`
 
 
 # Features:
