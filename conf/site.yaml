@@ -1,0 +1,6 @@
+---
+# file: site.yaml
+# sample config file
+#
+site: prod
+version: 0.0
